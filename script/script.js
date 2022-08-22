@@ -31,7 +31,7 @@ fetch(url).then(res => res.json())
 		advice_box.innerHTML = 
 		`
 			 <div class="advice_id">
-          		<h2>ADVICE #${data.slip.id}</h2>
+          		<h1>ADVICE #${data.slip.id}</h1>
         	</div>
 
         	<div class="advice">
