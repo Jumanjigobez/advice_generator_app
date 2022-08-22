@@ -43,7 +43,7 @@ body{
 	margin-top: 2rem;
 
 }
-.advice_id h2{
+.advice_id h1{
 	color: var(--Neon-Green);
 	font-size: 18px;
 	letter-spacing: 5px;
