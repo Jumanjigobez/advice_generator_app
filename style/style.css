@@ -96,7 +96,7 @@ body{
 	color: var(--Neon-Green);
 }
 
-@media(max-width: 375px){
+@media(max-width: 600px){
 	body{
 		padding: 0 1rem;
 	}
